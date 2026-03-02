@@ -59,4 +59,4 @@ Tip
 After refactor, you can update `TryIt` to show:
 - building a ticket
 - “updating” by creating a new instance
-- tags list is not mutable from outside.
+- tags list is not mutable from outside
